@@ -1,0 +1,321 @@
+header{
+    background-image: url(/new-year-new-me-main/new-year-new-me-main/images/banner/banner3.png);
+    
+width: 1600px;
+height: 808px;
+left: 0px;
+top: 0px;
+
+}
+.big{
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+color: #FFFFFF;
+}
+.small{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+padding-top: 40px;
+/* or 162% */
+
+text-align: right;
+
+color: #FFFFFF;
+}
+.button{
+   margin-top: 40px; 
+   position: absolute;
+
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+font-size: 20px;
+font-weight: 600;
+text-align: right;
+
+color: #005FAC;
+}
+.sheader{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+/* Dark 01 */
+
+color: #151414;
+}
+.des{
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+}
+.list{
+    position: absolute;
+width: 315px;
+height: 26px;
+left: 896px;
+top: 1416px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
+}
+.thead{
+    
+    width: 179px;
+height: 47px;
+left: 765px;
+top: 1792px;
+ont-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+text-align: center;
+padding: 0 50%;
+margin-top: 100px;
+}
+.icon1{
+    width: 92.96px;
+height: 92.96px;
+left: 294px;
+top: 1895px;
+position: absolute;
+}
+.h1{
+    width: 270px;
+height: 35px;
+left: 230px;
+top: 2011.96px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+/* Dark 01 */
+
+color: #151414;
+}
+.h2{
+    width: 177px;
+height: 29px;
+left: 277px;
+top: 2062.96px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+/* Dark 03 */
+
+color: #737272;
+
+}
+.icon2{
+    width: 92.96px;
+height: 92.96px;
+left: 631px;
+top: 1892px;
+position: absolute;
+}
+.h3{
+    width: 156px;
+height: 35px;
+left: 599px;
+top: 2006px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+/* Dark 01 */
+
+color: #151414;
+text-align: center;
+}
+.h4{
+    width: 181px;
+height: 29px;
+left: 586px;
+top: 2057px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+/* Dark 03 */
+
+color: #737272;
+
+}
+.icon3{
+    width: 214px;
+height: 197px;
+left: 1157px;
+top: 1889px;
+position: absolute;
+}
+.icon4{
+    width: 218px;
+height: 197px;
+left: 853px;
+top: 1889px;
+position: absolute;
+}
+.watch{
+    width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+background-image: url(/new-year-new-me-main/new-year-new-me-main/images/watch.png);
+
+border-radius: 8px;
+position: absolute;
+}
+.footer{
+    width: 1600px;
+height: 577px;
+left: 0px;
+top: 2646.3px;
+
+/* Dark 01 */
+
+background: #151414;
+position: absolute;
+}
+.section{
+    
+width: 485px;
+height: 317px;
+left: 230px;
+top: 2776.3px;
+
+
+}
+.fdes{
+    margin: 40px 40%;
+    width: 485px;
+height: 78px;
+left: 230px;
+top: 2845.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FFFFFF;
+}
+.fhead{
+    margin: 0 40%;
+    width: 148px;
+height: 53px;
+left: 230px;
+top: 2776.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F8F8F8;
+}
+fsection2{
+
+    width: 186px;
+height: 146px;
+left: 239px;
+top: 2928px;
+padding-left: 40%;
+}
+.section3{
+    width: 325px;
+height: 204px;
+left: 1046px;
+top: 2776.3px;
+padding-left: 1200px;
+}
+.footerhead{
+    width: 123px;
+height: 29px;
+left: 1046px;
+top: 2776.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.footerbutton{
+    width: 170.11px;
+height: 64px;
+left: 1040px;
+top: 291.3px;
+margin-top: 40px;
+color: red;
+}
